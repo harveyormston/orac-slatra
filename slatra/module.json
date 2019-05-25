@@ -1,5 +1,4 @@
 {
-    "name" : "S-slatra",
     "display" : "Slatra",
     "parameters" :  [
         ["int","slatra_transpose","Transpose",-24,24,0],

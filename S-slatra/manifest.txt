@@ -1,7 +1,0 @@
-e83ca9fa43c76d12b4829d53f41ff34ac37b45d8  S-slatra/LICENSE.txt
-8a49cea378f04e0e01af8276f362e9577514d4cf  S-slatra/crusty_dac.pd
-6e8e61e721f76102b24c5dcb81e06092f8af4e4e  S-slatra/deploy.sh
-c3023b1c3534b2099f9e857f6df57750cc615b43  S-slatra/module.json
-a30dde32b5b679510ecd3e76ec1797f6f70d7cf3  S-slatra/module.pd
-b36dd8ff3459353dc3c0436b6da7b75efa2b4a8a  S-slatra/slatra.pd
-088bd433b1cfa6c342289666c1ac6b5c804a7d00  S-slatra/voice.pd
